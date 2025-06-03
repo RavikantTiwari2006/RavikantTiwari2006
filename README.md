@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @RavikantTiwari2006
+- 👀 I’m interested in Java Development
+- 🌱 I’m currently learning Core Java
+- 💞️ I’m looking to collaborate on Java-based mini projects and open-source contributions  
+- 📫 How to reach me ravikant.p.tiwari123@gmail.com
+- 😄 Pronouns: He / Him
+- ⚡ Fun fact: I love exploring tech through YouTube and enjoy experimenting with code and creativity!
