@@ -13,6 +13,7 @@
 - 💻 Interested in Backend Development
 - 🎯 Goal: Internship Ready Developer
 - 🐳 Exploring Docker & MySQL
+- ⚡ Fun fact: Debugging teaches me more than success does
 
 ---
 
