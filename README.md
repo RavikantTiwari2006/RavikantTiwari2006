@@ -8,10 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Spring+Boot+Developer;Java+Backend+Learner;DSA+Enthusiast" />
 </p>
 
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=RavikantTiwari2006&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
 ---
 
 ## 🚀 About Me
