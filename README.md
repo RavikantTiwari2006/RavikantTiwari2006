@@ -1,7 +1,29 @@
-- 👋 Hi, I’m @RavikantTiwari2006
-- 👀 I’m interested in Java Development
-- 🌱 I’m currently learning Core Java
-- 💞️ I’m looking to collaborate on Java-based mini projects and open-source contributions  
-- 📫 How to reach me ravikant.p.tiwari123@gmail.com
-- 😄 Pronouns: He / Him
-- ⚡ Fun fact: I love exploring tech through YouTube and enjoy experimenting with code and creativity!
+<h1 align="center">Hi 👋, I'm Ravikant Tiwari</h1>
+<h3 align="center">Aspiring Full Stack Java Developer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Spring+Boot+Developer;Java+Backend+Learner;DSA+Enthusiast" />
+</p>
+
+---
+
+## 🚀 About Me
+
+- 🌱 Learning Spring Boot & DSA
+- 💻 Interested in Backend Development
+- 🎯 Goal: Internship Ready Developer
+- 🐳 Exploring Docker & MySQL
+
+---
+
+## 🛠 Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github,html,css,javascript,docker" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
